@@ -1,0 +1,5 @@
+OS info is 
+uname_result(system='Darwin', node='192.168.0.24', release='18.7.0', version='Darwin Kernel Version 18.7.0: Tue Nov 10 00:07:31 PST 2020; root:xnu-4903.278.51~1/RELEASE_X86_64', machine='x86_64')
+
+Python version is 3.9.5 (v3.9.5:0a7dcbdb13, May  3 2021, 13:17:02) 
+[Clang 6.0 (clang-600.0.57)] ('64bit', '')

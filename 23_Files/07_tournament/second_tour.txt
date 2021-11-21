@@ -1,0 +1,5 @@
+4
+1) A. Orlov 100
+2) V. Petrov 98
+3) P. Segeev 92
+4) S. Ivanov 82

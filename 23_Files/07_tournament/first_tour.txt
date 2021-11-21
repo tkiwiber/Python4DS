@@ -1,0 +1,6 @@
+80
+Orlov Alex 100
+Ivanov Serg 82
+Segeev Petr 92
+Petrov Vasiliy 98
+Vasiliev Maxim 78
